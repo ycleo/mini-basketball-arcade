@@ -12,7 +12,7 @@ We designed a tabletop version of the popular basketball arcade game.
 <br>
 
 #### Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hC5emraPtsg/0.jpg)](https://www.youtube.com/watch?v=hC5emraPtsg)
+[Link](https://www.youtube.com/shorts/jbUD1yE1yLY)
 
 #### Game Flow
 1. A user starts the game by pressing the joystick button.
